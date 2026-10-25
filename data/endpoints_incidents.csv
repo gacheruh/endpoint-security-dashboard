@@ -1,0 +1,53 @@
+device_id,user_email,office_location,os_type,antivirus_status,last_scan_date,incident_type,severity,description,remediation_status
+DEV-101,staff1@uaf-africa.org,Nairobi,Windows 11,Active,2026-03-30,None,Low,Device fully compliant and updated.,Resolved
+DEV-102,staff2@uaf-africa.org,Kampala,macOS Sonoma,Outdated,2026-03-15,Phishing Email Reported,Medium,User received suspicious external email pretending to be donor grants portal.,Pending Review
+DEV-103,staff3@uaf-africa.org,Harare,Windows 10,Disabled,2026-02-10,Unauthorized Access Attempt,High,Multiple failed SSH login attempts recorded from unknown external IP.,In Progress
+DEV-104,staff4@uaf-africa.org,Yaoundé,macOS Ventura,Active,2026-03-29,None,Low,Endpoint healthy,Resolved
+DEV-105,staff5@uaf-africa.org,Johannesburg,Windows 11,Active,2026-03-28,Phishing Email Reported,High,User clicked malicious credential harvesting link. Session revoked.,Action Required
+DEV-106,staff6@uaf-africa.org,Cairo,Windows 10,Outdated,2026-03-01,Malware Quarantined,High,Trojan payload blocked by Windows Defender.,Resolved
+DEV-107,staff7@uaf-africa.org,Nairobi,macOS Sonoma,Active,2026-03-30,None,Low,Endpoint healthy,Resolved
+DEV-108,staff8@uaf-africa.org,Dakar,Windows 11,Disabled,2026-02-20,Unauthorized Access Attempt,Critical,Suspicious administrative privilege escalation attempt detected.,Action Required
+DEV-109,staff9@uaf-africa.org,Kampala,Windows 11,Active,2026-03-29,None,Low,System compliant and operational.,Resolved
+DEV-110,staff10@uaf-africa.org,Harare,macOS Ventura,Outdated,2026-03-10,Phishing Email Reported,Medium,Suspicious credential request email flagged by user.,Pending Review
+DEV-111,staff11@uaf-africa.org,Nairobi,Windows 10,Disabled,2026-01-15,Unauthorized Access Attempt,High,Repeated brute-force login attempts detected on local service account.,In Progress
+DEV-112,staff12@uaf-africa.org,Johannesburg,macOS Sonoma,Active,2026-03-30,None,Low,Device health check passed.,Resolved
+DEV-113,staff13@uaf-africa.org,Cairo,Windows 11,Active,2026-03-25,Malware Quarantined,High,Adware payload isolated and removed by security scanner.,Resolved
+DEV-114,staff14@uaf-africa.org,Yaoundé,Windows 10,Outdated,2026-02-28,Phishing Email Reported,High,User entered credentials on rogue replica landing page; session revoked.,Action Required
+DEV-115,staff15@uaf-africa.org,Dakar,macOS Sonoma,Active,2026-03-29,None,Low,Endpoint fully patched and secure.,Resolved
+DEV-116,staff16@uaf-africa.org,Nairobi,Windows 11,Disabled,2026-02-05,Unauthorized Access Attempt,Critical,Unrecognized device token registered for remote access gateway.,Action Required
+DEV-117,staff17@uaf-africa.org,Kampala,macOS Ventura,Active,2026-03-28,None,Low,System compliant.,Resolved
+DEV-118,staff18@uaf-africa.org,Harare,Windows 11,Outdated,2026-03-12,Phishing Email Reported,Medium,Suspicious invoice attachment flagged prior to execution.,Pending Review
+DEV-119,staff19@uaf-africa.org,Johannesburg,Windows 10,Disabled,2026-01-20,Unauthorized Access Attempt,High,Suspicious inbound traffic blocked by endpoint firewall rule.,In Progress
+DEV-120,staff20@uaf-africa.org,Cairo,macOS Sonoma,Active,2026-03-30,None,Low,Device healthy and updated.,Resolved
+DEV-121,staff21@uaf-africa.org,Yaoundé,Windows 11,Active,2026-03-26,Malware Quarantined,High,Spyware component intercepted during background system scan.,Resolved
+DEV-122,staff22@uaf-africa.org,Dakar,Windows 10,Outdated,2026-03-02,Phishing Email Reported,High,CEO impersonation phishing attempt reported by staff member.,Action Required
+DEV-123,staff23@uaf-africa.org,Nairobi,macOS Ventura,Active,2026-03-30,None,Low,Endpoint healthy.,Resolved
+DEV-124,staff24@uaf-africa.org,Kampala,Windows 11,Disabled,2026-02-14,Unauthorized Access Attempt,Critical,Unusual administrative console access from unfamiliar geographic IP.,Action Required
+DEV-125,staff25@uaf-africa.org,Harare,Windows 11,Active,2026-03-27,None,Low,System compliant.,Resolved
+DEV-126,staff26@uaf-africa.org,Johannesburg,macOS Sonoma,Outdated,2026-03-08,Phishing Email Reported,Medium,Suspicious password reset notification email received.,Pending Review
+DEV-127,staff27@uaf-africa.org,Cairo,Windows 10,Disabled,2026-01-10,Unauthorized Access Attempt,High,Multiple failed authentication requests on VPN gateway.,In Progress
+DEV-128,staff28@uaf-africa.org,Yaoundé,macOS Ventura,Active,2026-03-30,None,Low,Device health check passed.,Resolved
+DEV-129,staff29@uaf-africa.org,Dakar,Windows 11,Active,2026-03-24,Malware Quarantined,High,Ransomware payload stub blocked before execution phase.,Resolved
+DEV-130,staff30@uaf-africa.org,Nairobi,Windows 10,Outdated,2026-02-25,Phishing Email Reported,High,User submitted credentials via fake M365 sign-in prompt; session revoked.,Action Required
+DEV-131,staff31@uaf-africa.org,Kampala,macOS Sonoma,Active,2026-03-29,None,Low,Endpoint fully compliant.,Resolved
+DEV-132,staff32@uaf-africa.org,Harare,Windows 11,Disabled,2026-02-01,Unauthorized Access Attempt,Critical,Unauthorized script execution attempt flagged by endpoint agent.,Action Required
+DEV-133,staff33@uaf-africa.org,Johannesburg,Windows 11,Active,2026-03-30,None,Low,System healthy.,Resolved
+DEV-134,staff34@uaf-africa.org,Cairo,macOS Ventura,Outdated,2026-03-05,Phishing Email Reported,Medium,Suspicious calendar invite link reported by user.,Pending Review
+DEV-135,staff35@uaf-africa.org,Yaoundé,Windows 10,Disabled,2026-01-30,Unauthorized Access Attempt,High,Repeated login probes on database management interface.,In Progress
+DEV-136,staff36@uaf-africa.org,Dakar,macOS Sonoma,Active,2026-03-30,None,Low,Device security status normal.,Resolved
+DEV-137,staff37@uaf-africa.org,Nairobi,Windows 11,Active,2026-03-22,Malware Quarantined,High,Trojan downloader isolated by Windows Defender.,Resolved
+DEV-138,staff38@uaf-africa.org,Kampala,Windows 10,Outdated,2026-02-18,Phishing Email Reported,High,Credential harvesting link clicked; account secured and token cleared.,Action Required
+DEV-139,staff39@uaf-africa.org,Harare,macOS Ventura,Active,2026-03-29,None,Low,Endpoint compliant.,Resolved
+DEV-140,staff40@uaf-africa.org,Johannesburg,Windows 11,Disabled,2026-01-25,Unauthorized Access Attempt,Critical,Unauthorized persistence mechanism detected in startup registry.,Action Required
+DEV-141,staff1@uaf-africa.org,Cairo,Windows 11,Active,2026-03-30,None,Low,Device health check verified.,Resolved
+DEV-142,staff2@uaf-africa.org,Yaoundé,macOS Sonoma,Outdated,2026-03-14,Phishing Email Reported,Medium,Suspicious document share link reported by staff.,Pending Review
+DEV-143,staff3@uaf-africa.org,Dakar,Windows 10,Disabled,2026-01-05,Unauthorized Access Attempt,High,Brute-force login attack detected against mail server portal.,In Progress
+DEV-144,staff4@uaf-africa.org,Nairobi,macOS Ventura,Active,2026-03-30,None,Low,Endpoint secure.,Resolved
+DEV-145,staff5@uaf-africa.org,Kampala,Windows 11,Active,2026-03-21,Malware Quarantined,High,Potentially unwanted program removed successfully.,Resolved
+DEV-146,staff6@uaf-africa.org,Harare,Windows 10,Outdated,2026-02-12,Phishing Email Reported,High,User entered credentials on deceptive portal; password reset enforced.,Action Required
+DEV-147,staff7@uaf-africa.org,Johannesburg,macOS Sonoma,Active,2026-03-30,None,Low,System fully compliant.,Resolved
+DEV-148,staff8@uaf-africa.org,Cairo,Windows 11,Disabled,2026-01-18,Unauthorized Access Attempt,Critical,Suspicious remote desktop connection attempt from blacklisted IP.,Action Required
+DEV-149,staff9@uaf-africa.org,Yaoundé,Windows 11,Active,2026-03-28,None,Low,Endpoint healthy.,Resolved
+DEV-150,staff10@uaf-africa.org,Dakar,macOS Ventura,Outdated,2026-03-04,Phishing Email Reported,Medium,Suspicious grant funding notification email flagged.,Pending Review
+DEV-151,staff11@uaf-africa.org,Nairobi,Windows 10,Disabled,2026-01-12,Unauthorized Access Attempt,High,Repeated invalid authentication tokens presented to API gateway.,In Progress
+DEV-152,staff12@uaf-africa.org,Kampala,macOS Sonoma,Active,2026-03-30,None,Low,Device fully compliant and updated.,Resolved
